@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practice_project/home_pade.dart';
+import 'package:practice_project/pages/home_pade.dart';
 
 class Homepage extends StatelessWidget {
   int a = 30;
